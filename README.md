@@ -5,7 +5,7 @@
  
 # Guide
 
-<b>1.Tokenizer</b></br></br>
+<b>**Tokenizer**</b></br>
 1-1. 어절단위 tokenize(tokenize by space) </br>
 1-2. Konlpy의 Okt 형태소분석기를 사용해서 tokenize (tokenize by Okt morphs)</br>
 1-3. Konlpy의 kkma 형태소분석기를 사용해서 tokenize (tokenize by Kkma morphs)</br>
