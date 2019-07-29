@@ -5,8 +5,15 @@
  
 # Guide
 
+#### <b>**Clean Text**</b></br>
+**clean.py**<br>
+1-1. 
+
 #### <b>**Tokenizer**</b></br>
-1-1. 어절단위 tokenize(tokenize by space) </br>
-1-2. Konlpy의 Okt 형태소분석기를 사용해서 tokenize (tokenize by Okt morphs)</br>
-1-3. Konlpy의 kkma 형태소분석기를 사용해서 tokenize (tokenize by Kkma morphs)</br>
-1-4. Konlpy의 Hannanum 형태소분석기를 사용해서 tokenize (tokenize by Hannanum morphs)</br>
+**tokenizer.py**<br>
+2-1. 어절단위 tokenize(tokenize by space) </br>
+2-2. Konlpy의 Okt 형태소분석기를 사용해서 tokenize (tokenize by Okt morphs)</br>
+2-3. Konlpy의 kkma 형태소분석기를 사용해서 tokenize (tokenize by Kkma morphs)</br>
+2-4. Konlpy의 Hannanum 형태소분석기를 사용해서 tokenize (tokenize by Hannanum morphs)</br>
+
+
