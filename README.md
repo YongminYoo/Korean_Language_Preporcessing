@@ -4,3 +4,9 @@
 
  
 # Guide
+
+1.Tokenizer</br></br>
+1-1. 어절로 tokenize(tokenize by space) </br>
+1-2. Konlpy의 Okt 형태소분석기를 사용해서 tokenize (tokenize by Okt morphs)</br>
+1-3. Konlpy의 kkma 형태소분석기를 사용해서 tokenize (tokenize by Kkma morphs)</br>
+1-4. Konlpy의 Hannanum 형태소분석기를 사용해서 tokenize (tokenize by Hannanum morphs)</br>
