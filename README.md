@@ -5,11 +5,11 @@
  
 # Guide
 
-#### <b>**Clean Text**</b></br>
+### <b>**Clean Text**</b></br>
 **clean.py**<br>
 1-1. 
 
-#### <b>**Tokenizer**</b></br>
+### <b>**Tokenizer**</b></br>
 **tokenizer.py**<br>
 2-1. 어절단위 tokenize(tokenize by space) </br>
 2-2. Konlpy의 Okt 형태소분석기를 사용해서 tokenize (tokenize by Okt morphs)</br>
