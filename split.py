@@ -14,6 +14,6 @@ def morph_okt(sentence):            #Using Okt morph
 
 def morph_kkma(sentence):           #Using kkma morph
     kkma = Kkma()
-    word = kkma.morph(sentence)
+    word = kkma.morphs(sentence)
     return word
 
