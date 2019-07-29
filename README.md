@@ -9,7 +9,7 @@
 **clean.py**<br>
 1-1. 한글과 띄어쓰기와 의미있는 특수문자를 제외한 모든 글자 
 
-### <b>**Tokenizer**</b></br>
+</br>### <b>**Tokenizer**</b></br>
 **tokenizer.py**<br>
 2-1. 어절단위 tokenize(tokenize by space) </br>
 2-2. Konlpy의 Okt 형태소분석기를 사용해서 tokenize (tokenize by Okt morphs)</br>
