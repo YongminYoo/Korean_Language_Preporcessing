@@ -7,12 +7,12 @@ def space(sentence):                #Split by space
     word = sentence.split(" ")
     return word
 
-def morphs_okt(sentence):            #Using Okt morph
+def okt(sentence):            #Using Okt morph
     okt = Okt()
     word = okt.morphs(sentence)
     return word
 
-def morphs_kkma(sentence):           #Using kkma morph
+def kkma(sentence):           #Using kkma morph
     kkma = Kkma()
     word = kkma.morphs(sentence)
     return word
