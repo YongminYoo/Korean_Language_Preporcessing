@@ -11,7 +11,7 @@ Requirement : konlpy => 0.5.2
 '''
 Input sentence는 str format으로 셋팅해야합니다.
 어절단위(띄어쓰기)로 split , konlpy의 Hannaum , Kkma , Okt 형태소분석 모듈을 이용해서 각 형태소 분석 단위로 split 합니다.(Mecab 형태소 분석은 이 코드에 포함되어 있지 않습니다.)
-Requirement : konlpu => 0.5.2
+Requirement : konlpy => 0.5.2
 '''
 
 
