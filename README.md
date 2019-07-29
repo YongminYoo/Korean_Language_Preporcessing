@@ -7,7 +7,7 @@
 
 ### <b>**Clean Text**</b></br>
 **clean.py**<br>
-1-1. 
+1-1. 한글과 띄어쓰기와 의미있는 특수문자를 제외한 모든 글자 
 
 ### <b>**Tokenizer**</b></br>
 **tokenizer.py**<br>
