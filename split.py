@@ -1,5 +1,4 @@
-from konlpy.tag import Okt
-from konlpy.tag import Kkma
+from konlpy.tag import *
 
 
 '''
